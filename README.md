@@ -30,4 +30,13 @@
               16.While adding moderator , select the input tag for adding moderator , then type the moderator id and then press Enter.
               17.Then after adding all moderator , close the current contest , to traverse on all the contests of all pages.
 
+
+HackerBoost is an automation tool developed using Node.js for HackerRank, a platform for technical skills assessment and developer recruitment. The tool is designed to enhance efficiency and productivity by automating repetitive tasks such as logging in and adding moderators to contests.
+
+HackerBoost utilizes Puppeteer, a Node.js library that provides a high-level API for controlling browsers. Puppeteer is used to automate interactions with the HackerRank platform, including logging in, creating new contests, adding moderators, and performing other administrative tasks.
+
+By automating these tasks, HackerBoost helps to reduce the workload of administrators and improve the overall efficiency of the platform. The tool is robust and reliable, able to handle a large number of tasks simultaneously and quickly.
+
+Overall, HackerBoost is a powerful automation tool for HackerRank that improves efficiency and productivity by automating repetitive tasks, and is developed using Node.js and Puppeteer.
+
                                                                       
